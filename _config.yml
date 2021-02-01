@@ -23,7 +23,7 @@ email: wxf@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A Project game to explore the COVID-19 influence to people mentally and 
   psycologically
-baseurl: "project_blog" # the subpath of your site, e.g. /blog
+baseurl: "project-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Targy
 
