@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "30 paper names"
+title:  "Academic Research"
 date:   2021-02-01 17:04:00 -0500
 categories: jekyll update
 author: "Targy"
@@ -98,21 +98,26 @@ http://www.few.vu.nl/~A.Eliens/create/local/story/mthesis_jakub.pdf
 
 # five star papers
 Impact of COVID‐19 on Psychology among the University Students
-https://onlinelibrary.wiley.com/doi/full/10.1002/gch2.202000038
+https://onlinelibrary.wiley.com/doi/full/10.1002/gch2.202000038 
+
 Many university students are experiencing anxiety during the pandemic due to multiple reasons including the economy of the living area, number of cases reported and whether living with parents etc.
 
 Daily emotional well‐being during the COVID‐19 pandemic
 https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjhp.12450 
+
 During the pandemic, some of people experience positive emotions(parents got time with children) while others experience negative emotions come from plenty of resources and reasons.
 
 Mental Health and the Covid-19 Pandemic
 https://www.nejm.org/doi/full/10.1056/NEJMp2008017 
+
 Covid 19 could bring plenty of mental problems to the people and it is a hard time for any psychological support.
 
 Immediate psychological distress in quarantined patients with COVID-19 and its association with peripheral inflammation: A mixed-method study
 https://www.sciencedirect.com/science/article/abs/pii/S0889159120306188 
+
 Covid 19 might cause the patients to have perceptions of stress, anxiety, anger, depression, and guilt due to the unexpectedness of the illness, a sense of powerlessness,  and loss of control.
 
 Persistent Symptoms in Patients After Acute COVID-19
 https://jamanetwork.com/journals/jama/fullarticle/2768351/ 
+
 Symptoms of COVID 19 include cough, fever, dyspnea, musculoskeletal symptoms (myalgia, joint pain, fatigue), gastrointestinal symptoms, and anosmia/dysgeusia.
