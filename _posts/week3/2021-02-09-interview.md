@@ -8,6 +8,7 @@ author: "Targy"
 
 # With Professor Fishman
 Introduction to projects
+
 Q: how to introduce the concept of disease? How to make game more fun instead of just giving the concepts
 
 A: It is important in game design to find what is interesting/ challenging /engaging about the concept instead of saying how can I make something fun which would be like admitting a topic is not fun. Won’t last very long, like hiding a medicine in the ice gram and eventually you will find that it is medicine and feel tricked. I think engagement is the most important thing. When you look for what is interesting or what people are interested in, especially talks about the infection of disease, people are interested in not spreading infection. There is a built in motivation, like people avoiding obstacle/ survival ideas. And you have to make choices and there are risks associated with choices/ risks will accumulate with risk. There are all kinds of frames you can put around the subject that somebody would see as a challenge. Challenges they want to 
