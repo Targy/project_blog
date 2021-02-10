@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Market Research"
+title:  "technical work"
 date:   2021-02-09 18:34:00 -0500
 categories: jekyll update
 author: "Targy"
 image1: "img/Home.png"
-image2: "img/Town.png"
-image3: "img/Hospital.png"
+image2: "img/Town.jpg"
+image3: "img/Hospital.jpg"
 image4: "img/character.png"
 ---
 
