@@ -27,10 +27,16 @@ Q: how could I make the game stand out more than other media.
 
 A: graphic won’t matter too much compared to the compelling and engaging story.I would put more energy to the story. Where the game stands out is through consistency where you pick the graphic style and the style connected to something(family style, japanese anime style,) you can use the style like what happens when people run so fast(naruto run). Or you can do something completely unique where surprising people would be interesting as well.
 
+
 Key things:
 -survival game?
+
 -metophor of people on other planet?
+
 -giving player enough choice that matter
+
 -make sure to support the confidence of player
+
 -sense of belonging 
+
 -game stands out with consistency
