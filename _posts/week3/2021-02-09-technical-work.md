@@ -4,11 +4,11 @@ title:  "technical work"
 date:   2021-02-09 18:34:00 -0500
 categories: jekyll update
 author: "Targy"
-image1: "img/Home.png"
-image2: "img/Town.jpg"
-image3: "img/Hospital.jpg"
-image4: "img/character.png"
-image5: "img/example.png"
+image1: "img/week3/Home.png"
+image2: "img/week3/Town.jpg"
+image3: "img/week3/Hospital.jpg"
+image4: "img/week3/character.png"
+image5: "img/week3/example.png"
 ---
 
 # Technical Work

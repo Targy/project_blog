@@ -41,3 +41,14 @@ Key things:
 -sense of belonging 
 
 -game stands out with consistency
+
+# With Psychologist Sui Wang
+
+Q:在疫情或隔离期间，您是否遇到过或观察到人们有恐慌，压力大等心理问题，是否有人向您倾诉过他们遇到的心理问题？如果有，能否详细描述他们的具体症状表现并从专业角度分析可能造成这些症状的原因。
+During the pandemic, do you meet/observe anyone having mental problems like anxious and depressed? If yes, could you please describe their clinical symptoms and analyze the possible reasons for these symptoms.
+
+Q:您是否接触过（线上或者线下）已经得过新型冠状病毒的患者（患病期间或者患病后），他们所描述的或表现出的心理状态是怎么样的，有哪些临床表现的症状，以及可能造成这些症状的原因？
+Have you talked to any Covid-19 patients (during or after disease)? how did they describe or show their mental state? What are the clinical symptoms? What might cause these symptoms?
+
+Q:如果有一款揭露疫情期间人们心理问题的游戏，您是否会支持此游戏并将其推荐给身边的人/患者以让更多人了解到心理健康的重要性？
+If there is a game exploring people’s mental health during the pandemic, would you recommend to people around you or patients to public the importance of mental health.
