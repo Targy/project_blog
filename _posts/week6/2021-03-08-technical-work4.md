@@ -46,3 +46,6 @@ After the work and when player back to home, the game would entering phase two b
 {% include youtube2.html id="W2rzG4UTOS0" %}  
 
 The next week, I will focus on the phase two implementation which would focus more on the item system, virus-battle system and health/sanity value system. The conversations/ interactions in phase two would be much less.
+
+Download link for the game:
+* [Download](https://drive.google.com/file/d/1qBnbezyiaR7i8hSm6nPQvpPSRaUYSjg8/view?usp=sharing)
