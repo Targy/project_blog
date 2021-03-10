@@ -49,3 +49,4 @@ The next week, I will focus on the phase two implementation which would focus mo
 
 Download link for the game:
 * [Download](https://drive.google.com/file/d/1qBnbezyiaR7i8hSm6nPQvpPSRaUYSjg8/view?usp=sharing)
+* [Download-simple-version](https://drive.google.com/file/d/1lQ5c2ZfkQ4aBTeMl8D6CKK-aRHyOS3HX/view?usp=sharing)
