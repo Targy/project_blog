@@ -39,10 +39,10 @@ interact with object
 
 Then, the player can find Lisa in lab room where they can do the work togather.
 
-{% include youtube.html id="dfHKVKNqIHc" %}  
+{% include youtube1.html id="dfHKVKNqIHc" %}  
 
 After the work and when player back to home, the game would entering phase two by player watching the TV and acknolwedge the news of COVID 19.
 
-{% include youtube.html id="W2rzG4UTOS0" %}  
+{% include youtube2.html id="W2rzG4UTOS0" %}  
 
 The next week, I will focus on the phase two implementation which would focus more on the item system, virus-battle system and health/sanity value system. The conversations/ interactions in phase two would be much less.
