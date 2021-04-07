@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "iterating&sound"
-date:   2021-03-31 11:27:00 -0500
+date:   2021-04-07 11:27:00 -0500
 categories: jekyll update
 author: "Targy"
 
