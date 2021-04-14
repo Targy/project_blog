@@ -6,7 +6,6 @@ categories: jekyll update
 author: "Targy"
 
 ---
-
 # Iteration
 
 This week, I basically add music and sound effects to the game. The background music would change in different situation like phase1, 2, 3 or when player goes into the park. Sound effects include shocking,  water tap, video game and more. 
